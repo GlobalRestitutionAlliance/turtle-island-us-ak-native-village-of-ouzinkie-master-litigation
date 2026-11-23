@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+NATIVE+VILLAGE+OF+OUZINKIE",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+NATIVE+VILLAGE+OF+OUZINKIE",
+  "title": "Federal Register - AK NATIVE VILLAGE OF OUZINKIE",
+  "fetched_at": "2026-11-23T16:20:13.741462Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 240209,
+  "sha256": "cb8672d57be5f5d5ed1ef48eb8a3e5174137fe8d82f50c3868c4a97dbe574e5d",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
